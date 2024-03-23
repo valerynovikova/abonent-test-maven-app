@@ -1,9 +1,12 @@
 # abonent-test-maven-app
 Test assignment for an internship using technology Tools: OpenJDK 17 maven/gradle Junit5
+
 First task:
 Напишите сервис, эмулирующий работу коммутатора, т.е. генерирующий CDR файлы.
+
 Second task:
 Данные полученные от CDR сервиса передать в сервис генерации UDR. Агрегировать данные по каждому абоненту в отчет.
+
 Resolution:
 1. **CDR Service (Сервис обработки CDR)**:
    - Создаие класса для обработки CDR файлов, который будет генерировать CDR файлы.
